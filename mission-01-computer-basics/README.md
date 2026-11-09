@@ -11,21 +11,23 @@ I use keyboard to enter the password to login to my google account, a memory is 
 
 # Hardware and Software
 
-|Item/ software name|Hardware or software?|Software type(if applicable)|Purpose|
-|--|--|--|
-|Keyboard|Hardware|Not applicable|Used to enter text|
-|Programming language|Software|System software|Used to give instructions that we want to excecute|
-|Screen|Hardware|Not applicable|It is an output device shows visual texts and images etc...|
-|Minecraft|Software|Application Software|Used to play(entertainment)|
-|Mouse|Hardware|Not applicable|Used to select, navigate or point|
+| Item/software name | Hardware or software? | Software type (if applicable) | Purpose |
+| :--- | :--- | :--- | :--- |
+| Keyboard | Hardware | Not applicable | Used to enter text |
+| Programming language | Software | Development Tool / Application | Used to write and give instructions that we want to execute |
+| Screen | Hardware | Not applicable | It is an output device that shows visual text and images |
+| Minecraft | Software | Application Software | Used to play games (entertainment) |
+| Mouse | Hardware | Not applicable | Used to select, navigate, or point |
+
 
 # Computer systems
 
-|System|Main purpose|One input|One output|
-|--|--|--|
-|TV|Used for entertainment|Remote to select|Screen to display|
-|ATM|Used to take cash|Keypad|Screen to display|
-|Traffic signal|Control traffic|Time triggers|coloured lights|
+| System | Main purpose | One input | One output |
+| :--- | :--- | :--- | :--- |
+| TV | Used for entertainment | Remote to select | Screen to display |
+| ATM | Used to take cash | Keypad | Screen to display |
+| Traffic signal | Control traffic | Time triggers | coloured lights |
+
 
 --- No commands used
 
