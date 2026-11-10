@@ -38,5 +38,3 @@
     - node
 
 - Package manager like homebrew is a home where all the packages lives, we can install them whenever we want with the help of it.
-
-
